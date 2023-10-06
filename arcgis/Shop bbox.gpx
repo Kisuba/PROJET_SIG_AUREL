@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<gpx version="1.1"
+     creator="Created via GPX Recorder for Android"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xmlns="http://www.topografix.com/GPX/1/1"
+     xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+    <metadata><name>Untitled</name><desc>Recorded with GPX Recorder for Android</desc></metadata><trk><name></name><trkseg><trkpt lat="-1.6644152" lon="29.2068764"><ele>1514.327</ele> <time>2023-07-18T07:59:36Z</time></trkpt><trkpt lat="-1.6762809" lon="29.2408398"><ele>1553.717</ele> <time>2023-07-18T10:24:42Z</time></trkpt><trkpt lat="-1.6680824" lon="29.2400668"><ele>1525.927</ele> <time>2023-07-18T10:43:27Z</time></trkpt></trkseg></trk><wpt lat="-1.662901" lon="29.2202731"><name>Mon depart </name><desc>@0,00km</desc><time>2023-07-18T07:32:41Z</time></wpt> <wpt lat="-1.6662644" lon="29.2101017"><name>Shop Afia Bora</name><desc>@0,00km</desc><time>2023-07-18T07:59:20Z</time></wpt> <wpt lat="-1.6751445" lon="29.2290313"><name>Shop en face de kase</name><desc>@4,92km</desc><ele>1519.284</ele><time>2023-07-18T12:10:42Z</time></wpt> 
+</gpx>
